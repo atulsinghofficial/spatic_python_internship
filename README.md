@@ -16,11 +16,17 @@ For example:
 1 - Geopy
 https://pypi.org/project/geopy/
 
-2 - Geocoding in Python: A Complete Guide
+2 - FuzzyWuzzy
+https://pypi.org/project/fuzzywuzzy/
+
+3 - Pandas
+https://pypi.org/project/pandas/
+
+4 - Geocoding in Python: A Complete Guide
 https://www.natasshaselvaraj.com/a-step-by-step-guide-on-geocoding-in-python/amp/
 
-3 - Geocode with Python
+5 - Geocode with Python
 https://towardsdatascience.com/geocode-with-python-161ec1e62b89
 
-4 - Finding Nearest pair of Latitude and Longitude match using Python
+6 - Finding Nearest pair of Latitude and Longitude match using Python
 https://medium.com/analytics-vidhya/finding-nearest-pair-of-latitude-and-longitude-match-using-python-ce50d62af546
