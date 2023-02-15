@@ -31,7 +31,7 @@ https://medium.com/analytics-vidhya/finding-nearest-pair-of-latitude-and-longitu
 
 # Explanation 
 
-1 - Two functions is_similar and haversine, and uses them to compare the rows in the Data Sets.
+1 - Two functions "is_similar" and "haversine", and uses them to compare the rows in the Data Sets.
 
 2 - The haversine function takes four arguments, lat1, lon1, lat2, and lon2, which are the latitude and longitude coordinates of two points on the Earth's surface, and calculates the distance between them in meters using the haversine formula.
 
