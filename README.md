@@ -16,8 +16,8 @@ For example:
 1 - Geopy
 https://pypi.org/project/geopy/
 
-2 - FuzzyWuzzy
-https://pypi.org/project/fuzzywuzzy/
+2 - Haversine Formula
+https://stackoverflow.com/questions/4913349/haversine-formula-in-python-bearing-and-distance-between-two-gps-points
 
 3 - Pandas
 https://pypi.org/project/pandas/
