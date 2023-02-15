@@ -1,2 +1,2 @@
-# spatic_python_internship
+# Spatic Python Internship
 Code in python using geopy
