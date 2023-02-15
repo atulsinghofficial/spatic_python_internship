@@ -13,20 +13,19 @@ For example:
 
 # Resources used in this Task 
 
-1 - Geopy
-https://pypi.org/project/geopy/
+1 - Pandas
+https://pypi.org/project/pandas/
 
 2 - Haversine Formula
 https://stackoverflow.com/questions/4913349/haversine-formula-in-python-bearing-and-distance-between-two-gps-points
 
-3 - Pandas
-https://pypi.org/project/pandas/
-
-4 - Geocoding in Python: A Complete Guide
+3 - Geocoding in Python: A Complete Guide
 https://www.natasshaselvaraj.com/a-step-by-step-guide-on-geocoding-in-python/amp/
 
-5 - Geocode with Python
+4 - Geocode with Python
 https://towardsdatascience.com/geocode-with-python-161ec1e62b89
 
-6 - Finding Nearest pair of Latitude and Longitude match using Python
+5 - Finding Nearest pair of Latitude and Longitude match using Python
 https://medium.com/analytics-vidhya/finding-nearest-pair-of-latitude-and-longitude-match-using-python-ce50d62af546
+
+# Explanation 
