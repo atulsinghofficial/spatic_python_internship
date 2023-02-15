@@ -11,7 +11,7 @@ For example:
 
 
 
-# Now Resources used to help me in this Task 
+# Resources used in this Task 
 
 1 - Geopy
 https://pypi.org/project/geopy/
